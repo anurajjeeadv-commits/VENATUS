@@ -28,6 +28,7 @@
     font-family: monospace;
     font-size: 14px;
     height: 46px;
+    width: 100%;
    
     max-width: 100%;
     
@@ -37,6 +38,7 @@ header {
     position: sticky;
     top: 0;
     z-index: 1000;
+    width:100%;
 }
 
 .nav1 a{
@@ -55,6 +57,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    width:100%;
    
 
 }
@@ -1399,6 +1402,7 @@ footer {
     transform: translateY(0);
   }
 }
+
 
 
 
